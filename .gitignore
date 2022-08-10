@@ -1,3 +1,5 @@
 Moselkey.pem
 node_modules
 ssh.txt
+.env
+.prod.env
